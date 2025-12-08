@@ -1,7 +1,7 @@
 /** @format */
 
 body {
-  background-image: url("asset/images/backpic.jpg");
+  background-image: linear-gradient(rgba(108, 108, 224, 0.7)), url("asset/images/images.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -11,7 +11,7 @@ body {
 }
 
 .form-box {
-  border: 1px solid rgb(255 255 255 / 50%);
+  border: none;
   background-color: #03010180;
   padding: 20px;
   max-width: 500px;
